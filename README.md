@@ -3,4 +3,5 @@
 ### Phone App iPhone with Web Service
 > Descripción: App iOS para traducir letras a números telefónicos y realizar llamadas.
 + Proyecto Single App View iPhone
-+ Utilizar librería para consumir servicio web
++ Utilizar librería para consumir servicio web y validar esta aplicación frente a un API.
++ Se evita que al perder el enfoque del TextBox siga activo el teclado.

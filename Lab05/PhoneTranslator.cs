@@ -6,8 +6,8 @@ namespace Lab05
 {
     public class PhoneTranslator
     {
-        string Letters = "ABCDEFGHIJKLMNOPQRSTUVWYZ";
-        string Numbers = "2223334445556667778889999";
+        string Letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+        string Numbers = "22233344455566677778889999";
 
         public string ToNumber(string alfanumericPhoneNumber)
         {
